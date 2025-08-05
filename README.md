@@ -24,9 +24,11 @@ A clean and elegant **digital business card** website built using HTML and CSS. 
 
 ---
 
+
 ## 🚀 Live Demo
 
-🔗 [https://biamungu.github.io/digital-business-card](https://biamungu.github.io/digital-business-card)
+🔗 [https://biamungu.github.io/business-card/](https://biamungu.github.io/business-card/)
+
 
 *(Update the link after deployment)*
 
